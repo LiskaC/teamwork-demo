@@ -6,9 +6,9 @@ import React from 'react'
 export const Navbar = () => {
   return (
     <ul>
-      <li><a href='www.google.com'>Library</a></li>
-      <li><a href='www.google.com'>Profile</a></li>
-      <li><a href='www.google.com'>Process</a></li>
+      <li><a href='https://www.google.com'>Resources</a></li>
+      <li><a href='https://www.google.com'>Profile</a></li>
+      <li><a href='https://www.google.com'>Process</a></li>
     </ul>
   )
 }
